@@ -1,0 +1,3 @@
+
+
+// navie algorithm for 
